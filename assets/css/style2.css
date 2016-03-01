@@ -1,0 +1,173 @@
+body {
+	font-family: 'Palanquin Dark', sans-serif;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#direct {
+	margin-left: 1190px;
+	margin-top: 20px;
+	height: 70px;
+	width: 70px;
+	position: fixed;
+	opacity: 0.5;
+}
+
+#direct img {
+	height: 100%;
+	width: 100%;
+}
+
+#title {
+	width: 100%;
+	height: 25%;
+	background-color: #59ABE3;
+	color: white;
+	padding: 100px;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Carter One', cursive;
+}
+
+h2 {
+	display: inline;
+	color: #E4F1FE;
+	opacity: 0.5;
+}
+
+#content {
+	width: 100%;
+	background-color: #3498DB;
+	color: white;
+	padding: 100px;
+	letter-spacing: 2px;
+	line-height: 200%;
+	padding-bottom: 0px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+p {
+	opacity: 0.9;
+}
+
+ul {
+	margin-left: 5px;
+}
+
+#c1 li {
+	display: inline-block;
+	height: 600px;
+	background-color: white;
+	margin-left: 10px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 340px;
+	font-family: 'Lato', sans-serif;
+	line-height: 150%;
+	color: #6C7A89;
+}
+
+.contimage {
+	width: 100%;
+	height: 34%;
+}
+
+.contimage img {
+	width: 100%;
+	height: auto;
+	padding: 15px;
+}
+
+.conttext {
+	padding: 15px;
+	height: 66%;
+}
+
+.conttext h3 {
+	margin-bottom: 10px;
+	color: black;
+}
+
+.tbox {
+	position: absolute;
+	margin-left: 70px;
+	margin-top: 130px;
+	font-size: 40px;
+}
+
+#size {
+	background-color: #22313F;
+	color: white;
+	position: absolute;
+	height: 600px;
+  	width: 340px;
+	z-index: 100;
+	padding: 30px;
+	font-size: 68px;
+	line-height: 200%;
+	padding-top: 80px;
+}
+
+.size1 {
+	background-color: #22313F;
+	color: white;
+	position: absolute;
+	height: 600px;
+  	width: 340px;
+	z-index: 100;
+	opacity: 0;
+}
+
+.buy {
+	font-size: 40px;
+	width: 250px;
+	line-height: 200%;
+	border-bottom: dotted;
+	text-align: center;
+	margin-top: 250px;
+	margin-left: 50px;
+	opacity: 0.8;
+}
+
+.box {
+	height: 50%;
+	width: 100%;
+	background-color: #6BB9F0;
+	opacity: 0;
+}
+
+.box:hover {
+	opacity: 0.5;
+}
+
+.boxtemp {
+	opacity: 0.5;
+}
+
+.box img {
+	width: 100%;
+	height: 100%;
+	opacity: 0.1;
+}
+
+#c2 {
+	width: 35%;
+	margin-left: 400px;
+	margin-bottom: 0px;
+	margin-top: 100px;
+}
+
+#c2 img {
+	width: 100%;
+}
